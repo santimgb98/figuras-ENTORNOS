@@ -15,3 +15,4 @@ public class Cuadrado extends Figura{
         posY = newPosY;
     }
 }
+
